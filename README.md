@@ -277,8 +277,10 @@ This will return a response in the following format
 ```
 {
     "userId": "user-id",
+    "legacyUserId": "-legacy-user-id",
     "serviceId": "service-id",
     "organisationId": "organisation-id",
+    "legacyOrganisationId": "legacy-organisation-id",
     "roles": [
         {
             "id": "role-id",
